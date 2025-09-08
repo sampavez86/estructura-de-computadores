@@ -1,6 +1,6 @@
 
 .data
-msg1:   .asciiz "¿cuántos numeros de la serie fibonacci quieres?: "
+msg1:   .asciiz "cuántos numeros de la serie fibonacci quieres?: "
 msg2:   .asciiz "\nSerie Fibonacci:\n"
 
 .text
